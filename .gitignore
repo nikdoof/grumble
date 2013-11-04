@@ -35,3 +35,7 @@ nosetests.xml
 .project
 .pydevproject
 .idea
+
+# Vagrant config
+.vagrant
+!.vagrant/povision.sh
