@@ -1,0 +1,3 @@
+flask
+flask-restful
+-e git+https://github.com/vishnevskiy/mumblepy.git#egg=mumblepy
